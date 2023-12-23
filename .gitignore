@@ -148,6 +148,7 @@ dmypy.json
 cython_debug/
 
 # dataset
+*.pkl
 fedlab_benchmarks/algorithm/fedavg/scale/shakespeare-rnn/pkl_dataset/*
 
 fedlab_benchmarks/datasets/data/mnist/*
